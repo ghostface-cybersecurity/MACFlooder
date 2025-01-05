@@ -4,5 +4,5 @@
 <h3 align="center">launch</h3>
 
 ```
-sudo python3 .py <ip address>
+sudo python3 MACFlooding.py <ip address>
 ```
